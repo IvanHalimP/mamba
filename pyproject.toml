@@ -24,7 +24,7 @@ dependencies = [
     "packaging",
     "setuptools>=61.0.0",
 ]
-urls = { name = "Repository", url = "https://github.com/state-spaces/mamba"}
+urls = { name = "Repository", url = "https://github.com/IvanHalimP/mamba"}
 
 [project.optional-dependencies]
 causal-conv1d = [
